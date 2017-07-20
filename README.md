@@ -1,6 +1,6 @@
 # onejaroneapp
 
-Just got an inspiration by spring boot. Spring boot allows developers to pack entire application into a war file, then developer just needs to run a normal java command, it will start a server and host the application. So I just downloaded some shells from github, like webshell, http tunnel shell etc. and built a spring boot app to try if this idea.
+Just got inspired by spring boot. Spring boot allows developers to pack entire application into a war file, then developer just needs to run a normal java command, it will start a server and host the application. So as pentester we could build a small and portable web application and pack some useful tools inside it, also it may have some potential use when doing intranet pentest. Then I just downloaded some shells from github, like webshell, http tunnel shell etc. and built a spring boot app to try this idea.
 
 the source code will be uploaded later. Actually you don`t need my source code, you can find any java developer to write one for you.
 
