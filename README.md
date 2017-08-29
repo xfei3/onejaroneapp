@@ -4,7 +4,7 @@ Just got inspired by spring boot. Spring boot allows developers to pack entire a
 
 the source code will be uploaded later. Actually you don`t need my source code, you can find any java developer to write one for you.
 
-usage: java -jar resource.jar
+usage: java -jar resource.war
 
 one issue I haven`t solved is, you actually can change file extestion(.war) to any thing like .pdf, .jpg, Java will execute it. But you will not be able to locate jsp files(You still can access controllers). I think it is related to some path issues. Any one who solved it, please share.
 
